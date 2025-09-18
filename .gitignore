@@ -1,0 +1,15 @@
+# Зависимости
+node_modules/
+
+# Отчеты о тестах Playwright
+/test-results/
+/playwright-report/
+
+# Файлы с переменными окружения
+.env
+
+# Лог файлы
+*.log
+
+# Системные файлы macOS
+.DS_Store
